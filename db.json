@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "title": "buy stuff",
+      "doneAt": "2020-12-10T08:22:57.778Z",
+      "doneBy": "user1"
+    },
+    {
+      "title": "send stuff",
+      "doneAt": "2020-11-10T08:22:57.778Z",
+      "doneBy": "user2"
+    },
+    {
+      "title": "throw stuff",
+      "doneAt": "2020-12-09T08:22:57.778Z",
+      "doneBy": "user1"
+    }
+  ]
+}
